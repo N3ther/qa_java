@@ -1,2 +1,2 @@
-# qa_java
+# Проект автотестирования кода
 QA Java Project
